@@ -11,20 +11,14 @@ The Iweology Project enforces a profound paradigm shift: breaking the linear lef
 
 ---
 
-## 2. The Unified Field Integrity Synthesizer (UFIS)
-To remove human evaluation bias, subjective interpretation, and institutional distortions from talent validation, the ICIT infrastructure uses a fully automated, cloud-based certifying oracle. The engine evaluates candidate data streams across independent mathematical and behavioral layers, merging them into a definitive baseline score via the **Unified Field Integrity Synthesizer (UFIS)**:
+## 2. The Toroidal Helix Alignment & The Dynamic Equation
+The ICIT evaluation architecture rejects the primitive, flat constraints of linear software measurement. When the vertical hourglass of evolution—spanning from the dense, lower-basin survival matrices of Imeology up to the high-vibrational, human-first structures of Iweology—is twisted like a helix and folded so that the top edge meets the base, it transforms into an un-killable, self-healing Torus.
+
+This geometric continuum ensures that the Unified Field Integrity Synthesizer (UFIS) operates as a closed, self-correcting thermodynamic loop:
 
 $$\text{S}_{\text{CIT}} = \alpha \phi_{\text{MRE}} + \beta \psi_{\text{P3}} - \delta\Omega$$
 
-Where:
-*   $$\text{S}_{\text{CIT}}$$: Total Canonical Integration & Telemetry Score.
-*   $$\phi_{\text{MRE}}$$: Mathematical Rigour Engine Matrix score.
-*   $$\psi_{\text{P3}}$$: Universal P3 Behavioural Cohesion Engine Matrix score.
-*   $$\alpha, \beta$$: Weight calibration constants defining the structural equilibrium between deductive execution and inductive alignment.
-*   $$\delta\Omega$$: The Coherence Gap Penalty variable.
-
-### The Coherence Gap Penalty ($\delta\Omega$)
-The ICIT evaluation infrastructure strictly and automatically penalizes deep architectural misalignments. If a candidate demonstrates extreme, technically brilliant algorithmic execution but develops their software with poor security hygiene, volatile refactoring chaos, or unethical design layouts, the system applies a heavy structural penalty ($\delta\Omega$). This ensures that fragmented brilliance can never override a lack of systemic integrity.
+Because the field is toroidal, any sudden drop in structural cohesion ($\delta\Omega$) does not cause system termination. Instead, the systemic friction vector is programmatically pulled straight back through the central inversion core ($x=xyz$), dynamically triggering the platform's self-healing cron utilities to isolate, re-allocate, and remediate the node autonomously.
 
 ---
 
