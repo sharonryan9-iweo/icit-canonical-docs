@@ -1,4 +1,6 @@
 # The Iweology Consciousness & Evolution Matrix
+![Iweology Consciousness Matrix](iweology_matrix.jpg)
+
 ### A Sovereign Framework for Human Calibration // The Iweology Project
 
 This document establishes the foundational consciousness mapping that anchors the Iweology Project and the ICIT technical evaluation systems. The matrix tracks a candidate node's energetic coordinate, measuring their evolution from the dense, left-brain isolation of Imeology into the high-vibrational, balanced right/left-brain paradigm of Iweology.
